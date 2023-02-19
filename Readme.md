@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Katerina Polatova](https://up.htmlacademy.ru/javascript/28/user/1657873).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Ничипорчук](https://htmlacademy.ru/profile/id612797).
 
 ---
 
